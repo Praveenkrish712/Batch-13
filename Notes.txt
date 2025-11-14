@@ -1,0 +1,31 @@
+HTML - Hyper text markup language
+
+* its used to create web pages
+* its not a programming language
+* its a Markup language
+* Every website can start with HTML
+
+
+1) Heading - h1 to h6
+
+2) Paragraph - p
+
+3) hr 
+
+4) brack tag - br
+
+5) Text Formatting - b or stong, u, i, mark, sup and sub
+
+6) Anchor tag - a
+
+7) Image tag - img
+
+8) list - order list and unorder list
+
+9) Tables - tr, th, td
+
+10) Forms - Inputs, labels, placeholder, required, TYPE()
+
+11) Media Elemets - Audio and Video
+
+12) Sematic Tags - Header, footer, section, main and nav

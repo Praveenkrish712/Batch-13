@@ -29,3 +29,24 @@ HTML - Hyper text markup language
 11) Media Elemets - Audio and Video
 
 12) Sematic Tags - Header, footer, section, main and nav
+
+
+CSS - Cascading style sheet 
+
+1) Types of CSS
+i - inline
+ii - internal
+iii - External
+inline > internal > External
+
+2) CSS Synatx
+selector{
+    property:value;
+}
+
+3) Types of selector
+i - Elemets selector - h1, h2, p.....
+ii - Class selector - (.) - Multiple times we can the same class name
+iii - Id selector - (#) - unique - id name we can't use the same id name only one we can use
+iv - universal selector - (*) - its can apply the entire site
+v - Group selector - Same class or id tag contains different tags, in that tags we want to same style means we will go with Group selector

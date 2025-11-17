@@ -1,0 +1,34 @@
+*{
+    background-color: gray;
+}
+
+/* h1{
+    color: green;
+} */
+
+/* h2{
+    color: coral;
+} */
+
+p{
+    color: yellow;
+}
+
+.one > h1{
+    color: hotpink;
+}
+
+#Two > h1,
+#Two > h2,
+#Two > h3{
+    color: blue;
+}
+
+/* 
+#Two > h2{
+    color: blue;
+}
+
+#Two > h3{
+    color: blue;
+} */

@@ -50,3 +50,27 @@ ii - Class selector - (.) - Multiple times we can the same class name
 iii - Id selector - (#) - unique - id name we can't use the same id name only one we can use
 iv - universal selector - (*) - its can apply the entire site
 v - Group selector - Same class or id tag contains different tags, in that tags we want to same style means we will go with Group selector
+
+4) Colors and background
+    color: hotpink;
+    background-color: blue;
+    background-image: url(./Assets/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+5) Text Styling
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 1px;    
+
+6) Box Modeling
+   i - Margin
+  ii - Border
+ iii - Padding
+  iv - Content     

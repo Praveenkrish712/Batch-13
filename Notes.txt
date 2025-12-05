@@ -92,3 +92,5 @@ iii - Absolute
 iv - Fixed
 v - sticky
 
+9) Grid - display property
+ 2 - dimensional layout system
